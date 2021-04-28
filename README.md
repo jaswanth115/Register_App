@@ -1,4 +1,4 @@
-# Register_App
+# Register_App (by Django)
 User registration for event
 
 
